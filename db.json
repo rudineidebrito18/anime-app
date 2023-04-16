@@ -1,0 +1,52 @@
+{
+    "animes":[
+    {
+        "id": 1,
+        "name": "Naruto",
+        "note": 8.9,
+        "description": "A série gira em torno das aventuras vividas por Naruto Uzumaki, um jovem órfão habitante da Aldeia da Folha que sonha em se tornar o quinto Hokage, o maior guerreiro e governante da vila.",
+        "cover": "https://br.web.img3.acsta.net/pictures/16/04/11/16/56/089875.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Boruto",
+        "note": 7,
+        "description": "Boruto: Naruto Next Generation acompanha Boruto Uzumaki, filho do sétimo Hokage da Aldeia da Folha, Naruto. O jovem sente certo ressentimento pelo pai por ele sempre ter colocado os interesses da aldeia antes da família. Mas mesmo incomodado com as atitudes do pai, ele decide seguir os mesmos caminhos como ninja.",
+        "cover": "https://br.web.img2.acsta.net/c_310_420/pictures/19/08/07/16/35/5393471.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Death note",
+        "note": 9,
+        "description": "Um estudante de repente encontra um caderno que caiu do céu. Trata-se do Death Note, que permite ao seu portador matar qualquer pessoa a partir da mera anotação do nome do alvo em uma de suas páginas. Sob a influência de Ruyk, dono do caderno, ele passa a usá-lo para eliminar criminosos e pessoas que escaparam da justiça. A súbita onda de assassinatos faz com que ele seja endeusado por muitos, que o apelidam de Kira, mas também atrai a atenção de um enigmático e brilhante detetive, chamado L.",
+        "cover": "https://br.web.img3.acsta.net/c_310_420/pictures/14/05/28/20/47/033239.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Chainsaw Man",
+        "note": 8.5,
+        "description": "Denji acaba sendo morto durante a negociação, mas é trazido de volta à vida por um demônio motosserra, que se une ao corpo do garoto e o transforma num híbrido de humano e demônio. A partir daí, Denji pode transformar seu corpo em uma arma letal, o Chainsaw Man, como ficou conhecido. Ele passa a trabalhar junto a caçadores de demônios para enfrentar ameaças.",
+        "cover": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781974709939/chainsaw-man-vol-1-9781974709939_hr.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Attack on Titan",
+        "note": 8.8,
+        "description": "Baseado no mangá shonen criado por Hajime Isayama, Attack on Titan conta a história de um mundo devastado pelo ataque de gigantes que devoraram grande parte da população da Terra. Um grupo de sobreviventes vive isolado no interior de uma grande muralha. Com a paz do local ameaçada, Eren Jaeger, um jovem com 'habilidades especiais', reúne um exército com a missão de destruir as aterrorizantes criaturas. Mas as descobertas no caminho são de tirar o fôlego do espectador.",
+        "cover": "https://img1.od-cdn.com/ImageType-400/6612-1/4AF/A98/C2/%7B4AFA98C2-371E-4E24-B92A-ED9137CF2EEE%7DImg400.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Bleach",
+        "note": 7.8,
+        "description": "O anime acompanha o jovem Ichigo Kurosaki, um estudante que sempre teve a inexplicável habilidade de fazer contato com espíritos. Mas sua vida dá uma reviravolta quando ele se depara com uma shinigami (Ceifeiro de almas) em meio a uma batalha com uma entidade maligna chamada Hollow.",
+        "cover": "https://external-preview.redd.it/B3OvdHblwX-tUe_fj8NcUDmAwhJH4oz8y8pygryp_K4.jpg?auto=webp&s=81328aaa3410be787c7fd77f0eeef9c11adc4601"
+    },
+    {
+        "id": 7,
+        "name": "One-Punch Man",
+        "note": 7,
+        "description": "Capaz de derrotar os seus inimigos com apenas um único soco, este herói careca, com uniforme amarelo e que usa luvas de borracha (sexy, hein?), cativou o público com o seu humor e 'jeitão' que beira o ridículo. One-Punch Man é um show de clichês das tradicionais narrativas shonen, mas que já conquistou o coração de uma legião de otakus.",
+        "cover": "https://i.pinimg.com/originals/7a/04/bf/7a04bfa65847e708e81f0f23167ad8a8.jpg"
+    }
+]}
