@@ -1,3 +1,6 @@
+const card = document.getElementById('cardsContainer')
+const detailsUrl = './pages/details/index.html'
+
 function createNode(element, className) {
     const result = document.createElement(element)
     if (className) {
@@ -30,15 +33,13 @@ function createCard(obj) {
     append(card, li)
 }
 
-const detailsUrl = './pages/details/index.html'
-const urlApi = 'http://localhost:3000/animes'
-const card = document.getElementById('cardsContainer')
+// const urlApi = 'http://localhost:3000/animes'
+const urlApi = 'db.json'
 
 fetch(urlApi)
     .then(response => response.json())
     .then(data => {
-        const element = data
-        element.forEach(e => {
+        data.animes.forEach(e => {
             createCard(e)
         })
     })

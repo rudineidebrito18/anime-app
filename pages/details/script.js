@@ -10,14 +10,14 @@ function addElementData(obj) {
     description.innerHTML = obj.description
 }
 
-const urlApi = 'http://localhost:3000/animes'
+const urlApi = '../../db.json'
 const id = location.search.slice(1).split('=')
 const main = document.getElementById('animeInfo')
 
 fetch(urlApi)
     .then(response => response.json())
     .then(data => {
-        const element = data
+        const element = data.animes
         let isValid = false
         element.forEach(e => {
             if (e.id == parseInt(id[1])) {
